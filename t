@@ -11,14 +11,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0;
-}
 
 #chessboard {
     width: 400px;
